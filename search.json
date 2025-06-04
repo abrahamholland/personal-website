@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "R. Abraham Holland",
-    "section": "",
-    "text": "R. Abraham Holland\n  \n    Economist, Cost Analysis and Research Division\n    Institute for Defense Analyses\n    National Security · Resource Allocation · Strategic Uncertainty\n  \n  \n    Download CV (PDF)"
-  },
-  {
     "objectID": "pubs.html",
     "href": "pubs.html",
     "title": "Publications",
@@ -40,6 +33,13 @@
     "title": "Publications",
     "section": "Work In-Progress",
     "text": "Work In-Progress\nHolland, R. Abraham, Bishma K. Bhusal, and Prashant Bhandari. Why Give Up the Ability to Choose? Community Engagement and Surprising Lottery Preferences in Nepal. Manuscript in progress, to be submitted in 2025.\n\n\nAbstract\n\nIn theory, individuals should prefer a choice-based lottery (random serial dictatorship) to a uniform random lottery for allocating private goods. However, data from potential beneficiaries of a Nepalese land allocation program show that almost half of participants prefer uniform random allocation. We observe this fact in both a field laboratory experiment and a randomized high-stakes policy intervention. In the lab-in-the-field game, participants choose between two lottery mechanisms. By randomizing cash prizes and game anonymity, we test a broad range of explanations. We find no evidence for lack of comprehension, risk aversion, social pressure, and altruism as potential explanations. At the same time, we find evidence that participants respond, on the margin, to changes in the expected benefits between mechanisms. In our second experiment, we use an information intervention to influence mechanism preferences outside of a laboratory. Our findings indicate that information on preference heterogeneity can affect individual mechanism preferences."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R. Abraham Holland",
+    "section": "",
+    "text": "R. Abraham Holland\n  \n    Economist, Cost Analysis and Research Division\n    Institute for Defense Analyses\n    National Security · Resource Allocation · Strategic Uncertainty\n  \n  \n    Download CV (PDF)"
   },
   {
     "objectID": "about.html",
