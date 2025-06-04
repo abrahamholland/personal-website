@@ -1,0 +1,10 @@
+---
+title: "Research"
+---
+
+### Working Papers
+1. **“Your Paper Title”** (With Coauthor). Draft available upon request.
+2. **“Another Paper”**
+
+### Data & Code
+* Link to GitHub repos or data folders.

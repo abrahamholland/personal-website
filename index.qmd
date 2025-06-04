@@ -1,0 +1,27 @@
+---
+format:
+  html:
+    title-block: false
+resources:
+  - "files/RAH_Profile_Photo.jpg"
+---
+
+```{=html}
+<div style="text-align:center; margin-bottom: 1rem;">
+  <img
+    src="files/RAH_Profile_Photo.jpg"
+    alt="R. Abraham Holland"
+    style="width:200px; /* no border-radius, so it stays square */ margin-bottom:0.5rem;"
+  />
+  <h1>R. Abraham Holland</h1>
+  <div class="lead text-center">
+    <strong>Economist, Cost Analysis and Research Division</strong><br/>
+    <strong>Institute for Defense Analyses</strong><br/>
+    National Security · Resource Allocation · Strategic Uncertainty
+  </div>
+  <a class="btn btn-outline-primary" href="files/Abraham_Holland_CV.pdf">
+    Download CV (PDF)
+  </a>
+</div>
+
+```

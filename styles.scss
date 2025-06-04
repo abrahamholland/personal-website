@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+$primary: #00539F;
+$navbar-bg: $primary;
+h1, h2, h3 {
+  font-weight: 600;
+}
+a {
+  text-decoration: none;
+}
+
+/*-- scss:rules --*/
+/* Increase spacing between bibliography entries */
+#refs p.csl-entry {
+  margin-bottom: 2em;
+}
+
+/* Add spacing around bibliography notes */
+.csl-entry .csl-right-inline {
+  display: block;
+  margin-top: 10em;
+  margin-bottom: 1em;
+  padding: 0.8em;
+}
