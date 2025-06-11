@@ -1,0 +1,38 @@
+---
+format:
+  html:
+    title-block: false
+resources:
+  - "files/RAH_Profile_Photo.jpg"
+---
+
+```{=html}
+<div style="text-align:center; margin-bottom: 1rem;">
+  <img
+    src="files/RAH_Profile_Photo.jpg"
+    alt="R. Abraham Holland"
+    style="width:200px; /* no border-radius, so it stays square */ margin-bottom:0.5rem;"
+  />
+  <h1>R. Abraham Holland</h1>
+  <div class="lead text-center">
+    <strong>Economist, Cost Analysis and Research Division</strong><br/>
+    <strong>Institute for Defense Analyses</strong><br/>
+    National Security · Resource Allocation · Strategic Uncertainty
+  </div>
+  <a class="btn btn-outline-primary" href="files/Abraham_Holland_CV.pdf">
+    Download CV (PDF)
+  </a>
+</div>
+
+<div style="text-align:center; margin-bottom: 1rem;">
+  <h2>About Me</h2>
+</div>
+
+<div style="text-align:justify; margin-bottom: 1rem;">
+<p>
+Dr. Abraham Holland joined the Institute for Defense Analyses (IDA) in 2019 after earning his Ph.D. in Public Policy from Harvard University. His dissertation research developed randomized experiments and empirical methods to evaluate the social and economic impacts of public service delivery failures and to improve public sector efficiency. At IDA, Dr. Holland is an applied microeconomist leading analyses across defense manpower, operations, and infrastructure topics. He also co-founded IDA’s Climate and Energy Security Working Group, which enhances IDA’s ability to apply cutting-edge science to address national security challenges. His work in this area includes assessments of environmental impacts on Department of Defense equipment, personnel, operations, and policy. A U.S. Air Force veteran, Dr. Holland graduated summa cum laude from Dartmouth College with degrees in economics and Chinese literature.
+</p>
+</div>
+```
+
+

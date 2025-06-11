@@ -1,0 +1,49 @@
+---
+title: "Presentations"
+---
+
+## Presentations
+“Changing C-17 Operational Performance” with Jennifer L. Bewley. DoD Resource Competition, Environmental Security and Stability (RECESS) Community of Practice, May 2025.
+
+“High, Hot, and Humid: On the Impacts of Extreme Conditions on Aviation” with Cameron, Liang and Jennifer L. Bewley. Dataworks 2025. Institute for Defense Analyses, March 2025. Presented by co-author Dr. Cameron Liang. 
+<details>
+<summary><strong>Abstract</strong></summary>
+Rising occurrences of extreme heat and humidity, combined with high-altitude conditions, present significant challenges for aviation by increasing density altitude—a critical factor in aircraft performance. Elevated temperatures, humidity, and high-altitude environments reduce air density, impacting engine efficiency, lift, and takeoff capability while extending required runway lengths. These challenges are particularly pronounced at high-altitude airports, where all three factors converge to affect operational safety and efficiency. This study utilizes high-resolution atmospheric projections and aircraft performance modeling to assess risks for global airports and proposes scalable adaptive strategies. Addressing the growing prevalence of extreme heat and humidity requires resilient infrastructure, comprehensive risk assessments, and forward-thinking policies to ensure aviation operations remain safe and reliable in evolving conditions.
+
+[Dataworks Video](https://www.youtube.com/watch?v=3ui9IrTqOz4); [Dataworks Presentation](https://www.dropbox.com/scl/fi/hmpo3km5pvxvunas6697f/3004282_Final-DataWorks_ExtremeConditionsOnAviation.pdf?rlkey=qqhnumkuu83s9fa2rkvmhcdy9&st=ewjgnbvm&dl=0)
+</details>
+
+“Adapting DoD Training Based on a Changing Climate” with Jennifer L. Bewley, et al. Western Economic Association International (WEAI) Conference, July 2023; West Point International Security Seminar, February 2024; Innovations in Climate Resilience (ICR) Symposium, April 2024. 
+<details>
+<summary><strong>Abstract</strong></summary>
+This study aimed to identify Department of Defense (DoD) training gaps driven by a changing climate. IDA’s approach emphasized using existing climate models and established military doctrine to project how climate change may affect selected DoD operations, equipment, and training. In the analysis presented here, IDA used a U.S. Marine Corps unit as a case study for understanding the environmental representativeness of recent live exercise activity. Our analysis indicated that live training is concentrated in a subset of current environmental conditions. We also observe live exercise coverage gaps across the range of current and projected future environmental conditions. Our analysis demonstrates the potential value of more climate informed decision-making in DoD planning processes; there may be ways to improve the environmental representativeness of current training activity while simultaneously preparing for a much larger share of projected future conditions within the U.S. Marine Corps unit’s area of responsibility. All of the analyses conducted in this project can be replicated and extended to other climate hazards, geographic regions, or unit types.
+
+[ICR24 Poster](https://www.dropbox.com/scl/fi/rwajocxcznvmf4v9i1gky/3002201_Climate-Change-and-Training-Poster.pdf?rlkey=zu3k4u5eddti2wgcyi5lrbho7&st=yqkqgdhm&dl=0); [WEAI Presentation](https://www.dropbox.com/scl/fi/wwlxru8ztnv164xp8sjp8/NS-D-33511.pdf?rlkey=52aw5dmcxbu94pwxnlkw93ydh&st=xff13csd&dl=0); [West Point Presentation](https://www.dropbox.com/scl/fi/2stc3t4jwi9v437k9fle1/IDA-Product-3001774-WP-Briefing-FINAL.pdf?rlkey=2gcgnwec92s97z68rdatgejiz&st=j5iav68k&dl=0)
+</details>
+
+“Projecting Aircraft Performance Using Regional Climate Data” with Jennifer L. Bewley and Astrid I. Berge. Institute for Defense Analyses Dataworks 2023, March 2023; SERDP-ESTCP Symposium, November 2023.
+<details>
+<summary><strong>Abstract</strong></summary>
+While the impact of local weather conditions on aircraft performance is well-documented, climate change has the potential to create long-term shifts in aircraft performance. Using just one metric, internal load capacity, we document operationally relevant performance changes for a UH-60L within the Indo-Pacific region. This presentation uses publicly available climate and aircraft performance data to create a representative analysis. The underlying methodology can be applied at varying geographic resolutions, timescales, airframes, and aircraft performance characteristics across the entire globe.
+
+[Dataworks Video](https://www.youtube.com/watch?v=F3gF9srR_Hk); [Dataworks Presentation](https://www.dropbox.com/scl/fi/yczdcro72xwnlt8w7jwka/NS-D-33480.pdf?rlkey=y953k3ob8e2cwdwwm48xa5cva&st=qfpqhpej&dl=0)
+</details>
+
+## Posters
+“Examining the Impact of Future Environmental Conditions on Operational Resilience and Efficiency of Key Warfighting Platforms: Challenges and Lessons Learned” with Jennifer L. Bewley et al. American Geophysical Union, December 2024. Presented by co-author Dr. Jennifer L. Bewley.
+<details>
+<summary><strong>Abstract</strong></summary>
+Changing environmental conditions create operational risks that may impact the U.S. military’s capacity to engage in combat and fulfill assigned missions and tasks (i.e., readiness). While the Department of Defense (DoD) is aware of general climate trends and their potential to impact military operations and readiness, implementing more climate-informed decisions requires a more precise understanding of how future environmental conditions could impact warfighting platforms or operational outcomes. Explicitly tying projected operational environments to mission success metrics is a challenging, multi-step process that requires many different data sources, astute data-reconciliation, and innovative analytical approaches.
+
+This presentation explores lessons learned through a discussion of vignettes that aim to assist DoD decision makers in resilience efforts by tying the operational environment to mission success metrics. Although most of these challenges arise due to the pioneering-nature of this analysis, some of the data challenges discussed may be alleviated with production of DoD guidance materials for climate projections for geographical domains.
+
+[AGU Poster](https://www.dropbox.com/scl/fi/e7a2fa8bn4vys1xsvo16i/3003770-AGU-poster.pdf?rlkey=ggpciq5fjic9f7qujo55i7ria&st=uqlkbbaq&dl=0)
+</details>
+
+“Potential Operational, Infrastructure, and Strategic Implications of Changes in Heat and Humidity” with Jennifer L. Bewley, et al. SERDP/ESTCP Symposium, December 2021. Presented by co-author Dr. Jennifer L. Bewley.
+<details>
+<summary><strong>Abstract</strong></summary>
+The Strategic Environmental Research and Development Program (SERDP) and the Environmental Security Technology Certification Program (ESTCP) Resource Conservation and Resiliency program area has supported a broad portfolio of infrastructure-focused research intended to help maximize the number of available training days and mission readiness. This analysis takes the first steps at connecting installation-level climatic risks and the other critical input into mission readiness: our people. Over time, we believe this approach can help further SERDP-ESTCP’s mission by supporting more efficient and integrated identification of investments that yield the largest gains in available training days and readiness. In 2019, the Institute for Defense Analyses began developing an internally funded interdisciplinary climate security capability within its cadre of research personnel. One of the first results of this effort is a demonstration analysis mapping global changes in an estimated Wet Bulb Globe Temperature (WBGT) Index derived from the most recent ensemble of Community Earth System Models to a publicly available dataset of the DoD’s current installation infrastructure. We then estimate the anticipated activity limitations for personnel expected to wear body armor on these installations using common work/rest restriction policies. We find that several global regions, as well as important military training installations, are likely to experience increased WBGT levels that could impose meaningful operational limitations. For commanders seeking to avoid these limitations, innovating new cooling technologies and infrastructure, inventing operational concepts that lower the expected physical strain on body armored servicemembers, reducing operational limitations by removing body armor, or simply accepting operational gaps created by these changes may be their only options. 
+
+[SERDP/ESTCP Poster](https://www.dropbox.com/scl/fi/9ac6p9gerozkhcgs3ktvy/NS-D-32882.pdf?rlkey=5jytpnvjn7ha6zqdqh72vf1fd&st=hk4j2ib9&dl=0)
+</details>
