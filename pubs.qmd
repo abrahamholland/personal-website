@@ -3,7 +3,6 @@ title: "Publications"
 ---
 
 ## Policy Publications
-
 Bewley, Jennifer L., Ayeisha A. Brinson, R. Abraham Holland, Anusuya Sivaram, Roxana Leal, John E. Sabatini, Kelsey R. Stanley, and Katherine C. S. Ross. “Independent Evaluation of the National Oceanic and Atmospheric Administration’s National Weather Service Tornado Forecasting and Warning Services.” IDA Product 3002824, Alexandria, VA, May 2025.
 
 Holland, R. Abraham, Jennifer L. Bewley, Joseph F. Adams, Ayeisha A. Brinson, Olivia Gozdz, John C. Maxwell, III, and Ashley Nunes. “Adapting Department of Defense Training Based on a Changing Climate in the Arctic.” IDA Product 3003625, Alexandria, VA, December 2, 2024. 
@@ -16,16 +15,20 @@ Alaskan wildfire trends may also have operational implications, with research po
 Full paper classified CUI//NOFORN.
 </details>
 
-Holland, R. Abraham, Jennifer L. Bewley, Joseph F. Adams, Astrid I. Berge, Shane Gillies, Caroline R. Earle, John C. Maxwell, III, and Sara C. Runkel. “Adapting Department of Defense Training Based on a Changing Climate.” IDA Document D-33459, Alexandria, VA, February 1, 2024. CUI//Distribution Statement E: Distribution authorized to DoD Components only.
+Holland, R. Abraham, Jennifer L. Bewley, Joseph F. Adams, Astrid I. Berge, Shane Gillies, Caroline R. Earle, John C. Maxwell, III, and Sara C. Runkel. “Adapting Department of Defense Training Based on a Changing Climate.” IDA Document D-33459, Alexandria, VA, February 1, 2024. 
 <details>
 <summary><strong>Abstract</strong></summary>
 This study aimed to identify Department of Defense (DoD) training gaps driven by a changing climate. IDA’s approach emphasized using existing climate models and established military doctrine to project how climate change will affect selected DoD operations, equipment, and training. Our analysis used the U.S. Marine Corps III Marine Expeditionary Force 31st Marine Expeditionary Unit (31st MEU) as a case study; it indicated live exercise coverage gaps across the range of current and expected future environmental conditions. We also identified additional operational implications for the 31st MEU’s ability to conduct amphibious operations in an important training location (Luzon, Philippines) by 2050. All of the analyses conducted in this project can be replicated and extended to other climate hazards, geographic regions, or unit types.
+
+Full paper classified CUI//Distribution Statement E: Distribution authorized to DoD Components only.
 </details>
 
 Kirk, Hannah L., Jennifer L. Bewley, Ayeisha A. Brinson, and R. Abraham Holland. “Navigating the Greenhouse Gas Accounting Regulatory Environment for Federal Contractors and the Department of Defense.” IDA Product 3000771, Alexandria, VA, February 1, 2024. 
 <details>
 <summary><strong>Abstract</strong></summary>
-Recent presidential executive orders have mandated federal agencies, including the Department of Defense, to disclose and reduce their own greenhouse gas (GHG) emissions, and to reduce emissions through the procurement process by including reporting requirements for federal contractors. In November 2022, federal agencies began the rulemaking process to amend the Federal Acquisition Regulation. The proposed change would require significant contractors to use existing, non-governmental standards in their GHG disclosures. This paper outlines key terms, standards, and issues associated with GHG accounting and reporting, as well as identified areas for further research. [(Paper)](https://idalink.org/3000771-LP)
+Recent presidential executive orders have mandated federal agencies, including the Department of Defense, to disclose and reduce their own greenhouse gas (GHG) emissions, and to reduce emissions through the procurement process by including reporting requirements for federal contractors. In November 2022, federal agencies began the rulemaking process to amend the Federal Acquisition Regulation. The proposed change would require significant contractors to use existing, non-governmental standards in their GHG disclosures. This paper outlines key terms, standards, and issues associated with GHG accounting and reporting, as well as identified areas for further research. 
+
+[Full Paper](https://idalink.org/3000771-LP)
 </details>
 
 Earle, Caroline R., Amy A. Alrich, R. Abraham Holland, Nigel J. Mease, Neil V. Mithal, EunRae Oh, and Christina M. Patterson. “An Analysis of Alternatives for Subterranean Training Facilities.” IDA Product 3000608, Alexandria, VA, October 2, 2023. 
@@ -64,6 +67,8 @@ Tate, David M., R. Abraham Holland, Gary R. Bliss, Matthew Breen, Patricia F. Br
 <details>
 <summary><strong>Abstract</strong></summary>
 IDA was asked to perform an independent review of National Nuclear Security Administration (NNSA) capital acquisition project costs and early-stage cost estimation. IDA’s methodology included examining historical project estimates and outcomes, comparing NNSA policy and practices with those of peer organizations, and performing a root cause analysis of the High Explosive Synthesis, Formulation, and Production project. These examinations yielded a number of high-level findings, which ranged across the entire capital acquisition lifecycle, related to areas of strength and areas in need of improvement. On the basis of these findings, IDA identified actionable planning, programming, budgeting, and evaluation process improvements across the project lifecycle. IDA recommends that NNSA reconsider how Critical Decision Zero estimates are used internally, as well as the degree to which these estimates are made visible outside of the agency. Further, IDA recommends that NNSA establish and enforce reliable cost estimation practices across and within each lifecycle phase in order to support more comprehensive, well-documented, and accurate estimates. IDA has provided a detailed set of specific implementation recommendations in the main body and appendices of this analysis.
+
+Full paper dissemination only as directed by the NNSA Office of Management and Budget DOE authority.
 </details>
 
 
@@ -79,18 +84,24 @@ Hirt, Robert D, et al. “Veterans Affairs Electronic Health Record Modernizatio
 <details>
 <summary><strong>Abstract</strong></summary>
 In March 2020, the Department of Veterans Affairs (VA) Office of Enterprise Integration (OEI) asked the Institute for Defense Analyses (IDA), on behalf of the VA Deputy Secretary, to provide the first quality assurance review (QAR) of the Electronic Health Record modernization (EHRM) program. The goals of the QAR were to (1) provide an external, independent technical and managerial assessment, and (2) assess both government and contractor processes related to the VA’s EHRM program. The Deputy Secretary accepted all seven IDA recommendations from the baseline assessment. The level of the recommendations varied from enterprise-level recommendations regarding governance, creating enterprise goals for the program, and stakeholder engagement to program-level recommendations involving schedule and risk management. In this report, the IDA team documents its assessment across five focus areas: Leadership and Governance, Planning and Evaluation, Change Management, Data and Accessibility, and Contract Management.
+
+Full paper dissemination only as directed by the Department of Veterans Affairs, Office of Enterprise Integration.
 </details>
 
 Adams, Joseph F, et al. “Analysis of a Salary-Based Pay System for the Quadrennial Review of Military Compensation.” IDA Document D-13204, Alexandria, VA, September 1, 2020.
 <details>
 <summary><strong>Abstract</strong></summary>
 This paper supports the goal of the Quadrennial Review of Military Compensation (QRMC) of understanding how a compensation system that combines basic pay, housing, and subsistence allowances into a single taxable “salary” would affect Service members’ earnings and behavior. This paper also considers the readiness, cost, and tax-revenue implications of such a system. We undertook three lines of effort. First, we modeled the after-tax income effects of transitioning to a salary system. We found that any salary system that maintains constant Federal Government costs will reduce Service members’ aggregate after-tax income. Second, we used econometric models to estimate the likely responses of Service members to changes in after-tax income. We found no significant effect of state military tax exemptions on retention, suggesting that other factors are more influential than raw compensation changes. Third, we conducted focus groups with 740 Service members in every Service by visiting Active and Reserve Component installations in four states. Service members generally expressed strong skepticism of major restructuring of military compensation systems; they view the current system as imperfect, but “fair enough.” Finally, we discuss other possible mechanisms—short of adopting a salary system—that could improve the efficiency and fairness of the current system.
+
+[Full Paper](https://www.dropbox.com/scl/fi/5knhai5ba3slf0vbpdo0b/D-13204.pdf?rlkey=pbknga15jechvj3dmdrd1u155&st=8udw6f5g&dl=0)
 </details>
 
-Huff, Nancy M., Alexander A. Armbruster, R. Abraham Holland, and Timothy J. Wojtecki. “Training Days and Retention in the Army National Guard.” IDA Paper P-13133, Alexandria, VA, May 1, 2020. CUI//Distribution E: Distribution authorized to DoD Components only.
+Huff, Nancy M., Alexander A. Armbruster, R. Abraham Holland, and Timothy J. Wojtecki. “Training Days and Retention in the Army National Guard.” IDA Paper P-13133, Alexandria, VA, May 1, 2020. 
 <details>
 <summary><strong>Abstract</strong></summary>
 As the Army National Guard (ARNG) has become increasingly more operational, concern has grown that increasing training requirements could cause retention challenges, particularly in the wake of recommendations from the National Commission on the Future of the Army in 2016 that ARNG units be integrated even more into the operational force structure. In this paper, we investigate the effect of the requirements for a more operational ARNG by answering two sets of questions: (1) What have the training requirements been recently for ARNG units and individual soldiers and to what extent are these training requirements projected to increase in the next five years? (2) What effect does increasing training requirements have on retention? We find that programmed unit training levels are not projected to rise beyond recent historical averages through fiscal year 2023. Using an instrumental variables methodology, we estimate only modest effects of training days on retention. We estimate the largest negative effects for Brigade Combat Teams (BCTs) where each additional training day per year reduces one-year retention by an estimated 0.63 percentage points—or about 75 personnel out of 5,978 exiting within one year in response to a two-day increase in average training requirements for all BCT units.
+
+Full paper classified CUI//Distribution E: Distribution authorized to DoD Components only.
 </details>
 
 ## Academic Publications
@@ -102,10 +113,14 @@ Providing clean water requires maintenance, as well as the initial connections t
 </details>
 
 ## Book Chapters
-Field, Erica, Abraham Holland, and Rohini Pande. "Microfinance: Points of Promise." *Evolving Approaches to the Economics of Public Policy: Views of Award-Winning Economists.* W.E. Upjohn Institute for Employment Research, 2016, 11.
+Field, Erica, Abraham Holland, and Rohini Pande. "Microfinance: Points of Promise." *Evolving Approaches to the Economics of Public Policy: Views of Award-Winning Economists.* W.E. Upjohn Institute for Employment Research, 2016, 11-32. [https://doi.org/10.17848/9780880995146.ch2](https://doi.org/10.17848/9780880995146.ch2)
 <details>
 <summary><strong>Abstract</strong></summary>
 A majority of the world’s impoverished lack adequate access to financial services. Typically, formal banks do not target the poor because lending without collateral is considered too risky. Poor households seeking credit are subsequently forced into informal markets where the prices are high, the quantities limited, and the methods of insuring repayment can be brutal.
+
+[Full Paper](https://www.dropbox.com/scl/fi/hgll726mcqlunczblta1j/2016_Microfinance-Points-of-Promise_Holland-Field-Pande.pdf?rlkey=6ql9rsp3vb0b8tg2dmc0pyhv7&st=ibg12b9g&dl=0)
+
+Media Coverage: [The Economist](https://www.economist.com/international/2016/10/06/your-inflexible-friend?fsrc=rss%7Cint); [Center for Financial Inclusion](https://www.dropbox.com/scl/fi/kwnap1baims00zxpx6dcl/How-Does-Innovation-Happen.pdf?rlkey=w7hs65ppayqn9exbuedqdwro3&st=3zicd61k&dl=0)
 </details>
 
 ## Work In-Progress
