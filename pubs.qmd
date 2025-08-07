@@ -12,8 +12,15 @@ The analysis finds that although the NWS consistently met its false alarm ratio 
 
 The report offers six recommendations to enhance NWS effectiveness, including the development of a detailed TWIEP implementation plan, formulation of loss-related performance metrics, and improved post-implementation evaluation of research. It also calls for reassessment of lead-time metrics and their communication. NOAA concurred with five recommendations and partially concurred with one, citing methodological and resource challenges in establishing life and economic loss metrics. The evaluation underscores the need for a coordinated, evidence-based framework to bolster public trust and operational accountability in NOAA's tornado warning systems.
 
-[Full Paper](https://www.dropbox.com/scl/fi/ez6s75yb4xkuai5rbdq4d/OIG-25-026-I_FinalReport-SECURED.pdf?rlkey=oqxtgtn67kil14xamw3wc5ylt&e=1&st=ke6jrq4m&dl=0) [E&E News](https://www.dropbox.com/scl/fi/feopzbryrmimbg1v5lhh0/NWS_failing_to_meet_tornado_warning_standards__IG_finds_-_EENEWS.pdf?rlkey=4l3y96jcm3f93cs73374hlwjt&st=vpsj62ot&dl=0)
+[Full Paper](https://www.ida.org/research-and-publications/publications/all/i/in/independent-evaluation-of-the-noaa-national-weather-service-tornado-forecasting-and-warning-services) 
+
+Media Coverage: [E&E News](https://www.dropbox.com/scl/fi/feopzbryrmimbg1v5lhh0/NWS_failing_to_meet_tornado_warning_standards__IG_finds_-_EENEWS.pdf?rlkey=4l3y96jcm3f93cs73374hlwjt&st=vpsj62ot&dl=0)
+
+<!--
+https://www.dropbox.com/scl/fi/ez6s75yb4xkuai5rbdq4d/OIG-25-026-I_FinalReport-SECURED.pdf?rlkey=oqxtgtn67kil14xamw3wc5ylt&e=1&st=ke6jrq4m&dl=0
+-->
 </details>
+
 
 Holland, R. Abraham, Jennifer L. Bewley, Joseph F. Adams, Ayeisha A. Brinson, Olivia Gozdz, John C. Maxwell, III, and Ashley Nunes. “Adapting Department of Defense Training Based on a Changing Climate in the Arctic.” IDA Product 3003625, Alexandria, VA, December 2, 2024. 
 <details>
