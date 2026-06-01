@@ -3,6 +3,28 @@ title: "Publications"
 ---
 
 ## Policy Publications
+Holland, R. Abraham. “Climate Security Playbook.” North Atlantic Treaty Organization Climate Change and Security Centre of Excellence, Montreal, Canada, April 2026.
+<details>
+<summary><strong>Abstract</strong></summary>
+The Climate Security Playbook (CSP) is an unclassified guide for NATO defense analysts, researchers, and planners, produced under the NATO Climate Change and Security Centre of Excellence (CCASCOE) fellowship program. Rather than a climate scientist's guide to security implications, it offers a defense analyst's guide to climate methodology — aiming to make readers more sophisticated consumers and commissioners of climate research and, where needed, capable of conducting their own exploratory analyses. The playbook is organized around the IPCC vulnerability framework — exposure, sensitivity, and adaptive capacity — and grounds each concept in a running case study of how changing Arctic conditions affect military aircraft ground operations at Evenes Air Station, Norway. Along the way it provides a climate science primer, guidance on climate projection data (CMIP6) and compound-hazard methods, and practical advice on when (and when not) to commission a climate analysis. It is accompanied by an annotated bibliography and an interactive knowledge base designed to be queried by generative AI tools.
+</details>
+
+Barth, Thomas H., et al. “Cyber Academy Assessment: For Senate Report 118-188 – National Defense Authorization Act for Fiscal Year 2025.”  IDA Report 3006503, Alexandria, VA, March 2026.
+<details>
+<summary><strong>Abstract</strong></summary>
+Establishing a new institution of higher education such as a physical cyber academy is feasible but it is not advisable. While it might be feasible to establish a physical cyber academy, it is Congress’ responsibility to pass the necessary legislation to establish the academy. However, a cyber academy is not advisable, not because there isn’t a gap between the demand and the supply in the government’s cyber workforce, but because a cyber academy envisioned in the mold of the military service academies will not address the U.S. Government’s cyber workforce gap. If Congress elects to pursue a cyber academy, the proposals, recommendations, findings, and cost estimates detailed in this report will contribute to a thoughtful and strategic discussion concerning establishment.
+
+Full paper classified **CUI//NOFORN**.
+</details>
+
+Dechant, Jason A., et al. “Assessing the Centralized Mission of Defense Logistics Agency Document Services” IDA Report 3005820, Alexandria, VA, November 2025.
+<details>
+<summary><strong>Abstract</strong></summary>
+Department of Defense Directive 5330.03 designates the Defense Logistics Agency (DLA) as the single manager for document services in the Department of Defense (DoD, also known as the Department of War). Document services include both print and reproduction services, as well as the leasing and purchasing of multi-functional devices. Despite this designation, DoD components rely on a range of providers for their document services. This raises questions about the necessity of a consolidated document services function and whether it is central to DLA’s combat support mission. This study provides an independent assessment of DLA’s document services operations and relevance as a centralized mission. In doing so, it offers alternative models for providing document services and evaluates their relative strengths and weaknesses. Ultimately, we recommend DoD divest of DLA’s document services function and adopt a hybrid model leveraging other providers of the services.
+
+Full paper classified **CUI//NOFORN**.
+</details>
+
 Bewley, Jennifer L., Ayeisha A. Brinson, R. Abraham Holland, Anusuya Sivaram, Roxana Leal, John E. Sabatini, Kelsey R. Stanley, and Katherine C. S. Ross. “Independent Evaluation of the National Oceanic and Atmospheric Administration’s National Weather Service Tornado Forecasting and Warning Services.” IDA Product 3002824, Alexandria, VA, May 2025.
 <details>
 <summary><strong>Abstract</strong></summary>

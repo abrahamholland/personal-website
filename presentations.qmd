@@ -3,6 +3,15 @@ title: "Presentations"
 ---
 
 ## Presentations
+“Leveraging Economic and Policy Tools for Homeowners’ Insurance: Using Homeowners’ Incentive Programs to Improve the Stock of Military Family Housing” with Ayeisha A. Brinson and
+Nancy M. Huff. Internal Presentation 3006630. Institute for Defense Analyses, January 2026.
+<details>
+<summary><strong>Abstract</strong></summary>
+Many states have created incentive programs for homeowners’ investments in resiliency upgrades (e.g., roof upgrades to withstand wind storms) to help address the increased frequency and magnitude of hazardous weather events. These programs provide homeowner’ grants to finance a portion of the upgrades. These upgrades help to improve the home’s resiliency and aid in reducing homeowners’ insurance costs. However, these programs tend to benefit homeowners, potentially excluding renters. Many military families leverage off-base rental properties (approximately 18-44%); thus, military families could be disproportionately excluded from these types of resilience upgrades and subject to “less safe” (or less resilient) housing options. These trends raise future potential research questions. How can the Department use state incentive programs (e.g., Strengthen Alabama Homes) as a model to improve the “resilience” of military family housing? What are the mechanisms to create better incentives for improving the quality of housing for military families?
+
+</details>
+
+
 “Changing C-17 Operational Performance” with Jennifer L. Bewley. DoD Resource Competition, Environmental Security and Stability (RECESS) Community of Practice, May 2025.
 
 “High, Hot, and Humid: On the Impacts of Extreme Conditions on Aviation” with Cameron, Liang and Jennifer L. Bewley. Dataworks 2025. Institute for Defense Analyses, March 2025. Presented by co-author Dr. Cameron Liang. 
