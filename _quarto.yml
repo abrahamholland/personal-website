@@ -8,7 +8,7 @@ csl: "bib/chicago-author-date.csl"
 website:
   title: "R. Abraham Holland"
   image: "files/RAH_Profile_Photo.jpg"
-  site-url: "https://abrahamholland.github.io/my-website"
+  site-url: "https://abrahamholland.github.io/personal-website"
   description: "Brief description or tagline"
   navbar:
     right:
