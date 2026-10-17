@@ -3,6 +3,14 @@ title: "Presentations"
 ---
 
 ## Presentations
+“Dry, Dark, and Empty” with Marcus Lee and Michael Dunn. Global Energy Center Issue Brief. Washington, DC: Atlantic Council, October 2026. 
+<details>
+<summary><strong>Abstract</strong></summary>
+US installations outside the United States face growing vulnerabilities to power, fuel supplies, and water shortages. A more holistic, real-world exercise framework and infrastructure investment strategy that recognizes electricity, fuel, and water as parts of an interdependent system can create lasting resilience in peacetime and wartime.
+
+[Conference Video](https://www.youtube.com/watch?v=9zDzBo6p2iM&t=12403s); [Issue Brief](https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/ensuring-us-military-readiness-in-the-face-of-water-power-and-fuel-shortages/)
+</details>
+
 “Leveraging Economic and Policy Tools for Homeowners’ Insurance: Using Homeowners’ Incentive Programs to Improve the Stock of Military Family Housing” with Ayeisha A. Brinson and
 Nancy M. Huff. Internal Presentation 3006630. Institute for Defense Analyses, January 2026.
 <details>
