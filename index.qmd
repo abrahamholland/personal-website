@@ -29,9 +29,7 @@ resources:
 
 <div style="text-align:justify; margin-bottom: 1rem;">
 <p>
-Dr. Abraham Holland joined the Institute for Defense Analyses (IDA) in 2019. At IDA, Dr. Holland is an applied microeconomist leading analyses across defense manpower, operations, and infrastructure topics. He also co-founded IDA’s Strategic Planning for Actionable Resilience Working Group, which enhances IDA’s ability to apply cutting-edge science to address national security challenges. His work in this area includes assessments of environmental impacts on Department of Defense equipment, personnel, and operations. A U.S. Air Force veteran, Dr. Holland earned his Ph.D. in Public Policy from Harvard University in 2019. His dissertation research developed randomized experiments and empirical methods to evaluate the social and economic impacts of public service delivery failures and to improve public sector efficiency. He also graduated summa cum laude from Dartmouth College with a bachelor’s degree in economics and Chinese literature.
+Dr. Abraham Holland is a Senior Director in research and development for Vizient, a provider-driven healthcare performance improvement company. Vizient serves 97% of academic medical centers, more than two-thirds of acute care providers, and one-third of ambulatory providers in the United States. Dr. Holland is also an adjunct researcher at the Institute for Defense Analyses (IDA). At IDA, Dr. Holland is an applied microeconomist supporting analyses across strategic resource allocation and resilience topics. A U.S. Air Force veteran, Dr. Holland earned his Ph.D. in Public Policy from Harvard University in 2019. His dissertation research developed randomized experiments and empirical methods to evaluate the social and economic impacts of public service delivery failures and to improve public sector efficiency. He also graduated summa cum laude from Dartmouth College with a bachelor’s degree in economics and Chinese literature.
 </p>
 </div>
 ```
-
-
