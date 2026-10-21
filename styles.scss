@@ -9,15 +9,31 @@ a {
 }
 
 /*-- scss:rules --*/
-/* Increase spacing between bibliography entries */
-#refs p.csl-entry {
-  margin-bottom: 2em;
-}
+/* Expandable abstracts on the Publications and Presentations pages.
+   Collapsed: unchanged. Open: tinted box with a left accent bar and
+   extra space below, so the abstract reads as part of the citation
+   above it rather than running into the next entry. */
+details:not(.code-fold) {
+  margin-bottom: 1.5rem;
 
-/* Add spacing around bibliography notes */
-.csl-entry .csl-right-inline {
-  display: block;
-  margin-top: 10em;
-  margin-bottom: 1em;
-  padding: 0.8em;
+  > summary {
+    cursor: pointer;
+  }
+
+  &[open] {
+    border-left: 4px solid $primary;
+    background-color: rgba($primary, 0.05);
+    border-radius: 0.25rem;
+    padding: 0.75rem 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+
+    > summary {
+      margin-bottom: 0.5rem;
+    }
+
+    > :last-child {
+      margin-bottom: 0;
+    }
+  }
 }
